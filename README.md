@@ -5,4 +5,6 @@ Will be covering everything from the course "Machine Learning & Deep Learning in
 2. Basics of Statistics
 3. Basics of Machine learning
 4. Data Preprocessing stages
-5. 
+5. Linear Regression
+6. Classification Models : Logistic regression, LDA, KNN
+7. 
