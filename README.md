@@ -7,4 +7,5 @@ Will be covering everything from the course "Machine Learning & Deep Learning in
 4. Data Preprocessing stages
 5. Linear Regression
 6. Classification Models : Logistic regression, LDA, KNN
-7. 
+7. Decision Tree
+8. Classification Tree : Gini Index, Cross Entropy
