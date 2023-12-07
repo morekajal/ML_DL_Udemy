@@ -10,3 +10,5 @@ Will be covering everything from the course "Machine Learning & Deep Learning in
 7. Decision Tree
 8. Classification Tree : Gini Index, Cross Entropy
 9. Ensemble learning : Bagging Boosting and Classifiers
+10. SVM Regression : Support vectors, Hyperplane, SVM regression model
+11. SVM Classification : SVM Classification Tree
