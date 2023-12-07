@@ -12,3 +12,5 @@ Will be covering everything from the course "Machine Learning & Deep Learning in
 9. Ensemble learning : Bagging Boosting and Classifiers
 10. SVM Regression : Support vectors, Hyperplane, SVM regression model
 11. SVM Classification : SVM Classification Tree, Hyper Parameter Tuning (hpt)
+12. Introduction to Neural Networks : Single cell Perceptron, Activation functions and Perceptron model
+13. Introduction to Artificial Neural Networks : Gradient descet, Back Propagation, Hyperparameters
